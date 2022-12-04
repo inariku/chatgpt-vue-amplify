@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatgptproject-dev-162705-authRole",
+      "UnauthRoleArn": "arn:aws:iam::365795763117:role/amplify-chatgptproject-dev-162705-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::365795763117:role/amplify-chatgptproject-dev-162705-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-chatgptproject-dev-162705-deployment",
+      "UnauthRoleName": "amplify-chatgptproject-dev-162705-unauthRole",
+      "StackName": "amplify-chatgptproject-dev-162705",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:365795763117:stack/amplify-chatgptproject-dev-162705/10f62bc0-73a5-11ed-b365-06a52b4d3bf3",
+      "AmplifyAppId": "d1p87pkgfhj1v4"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
